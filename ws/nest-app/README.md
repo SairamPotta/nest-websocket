@@ -31,6 +31,10 @@
 ```bash
 $ npm install
 ```
+```
+for this application we have added few packages those are
+$ npm i --save ws @nestjs/platform-ws 
+```
 
 ## Running the app
 
