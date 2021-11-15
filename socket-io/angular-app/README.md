@@ -6,6 +6,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 ```bash
 $ npm install
 ```
+```
 for this application we have added few packages those are
 $ npm i --save socket.io-client
 ```
