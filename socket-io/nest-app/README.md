@@ -31,6 +31,9 @@
 ```bash
 $ npm install
 ```
+for this application we have added few packages those are
+$ npm i --save @nestjs/websockets @nestjs/platform-socket.io socket-io
+```
 
 ## Running the app
 
